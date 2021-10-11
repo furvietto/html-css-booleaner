@@ -21,6 +21,10 @@ body{
     margin-top: 30px;
 }
 
+ul{
+    padding-left: 15px;
+}
+
 h1{
     margin-bottom:0 ;
 }
@@ -41,11 +45,18 @@ h1{
     margin-top: 20px;
 }
 
-.text-color{
-    background-color: cornflowerblue ;
+table{
+    border-spacing: 0;
 }
 
+.text-color{
+    background-color: cornflowerblue ;
+    color: white;
+}
 
+.color-aqua{
+    background-color: aqua;
+}
 
 *{
     box-sizing: border-box;
