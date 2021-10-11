@@ -45,6 +45,10 @@ h1{
     margin-top: 20px;
 }
 
+.margin-top-footer{
+    margin-top: 40px;
+}
+
 table{
     border-spacing: 0;
 }
@@ -56,6 +60,31 @@ table{
 
 .color-aqua{
     background-color: aqua;
+}
+
+.foto1{
+    background-image: url(../img/monitor.jpg);
+    height: 208px;
+    width: 312px;
+    margin-top: 10px;
+}
+
+.color-white{
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 1.7em;
+}
+
+.foto2{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    margin-top: 20px;
+}
+
+.bold{
+    font-weight: bold;
 }
 
 *{
