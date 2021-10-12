@@ -4,6 +4,7 @@ body{
    margin: 0;
 }
 
+
 .margin-5{
     margin: 5px;
 }
@@ -51,6 +52,8 @@ h1{
 
 table{
     border-spacing: 0;
+    text-align: left;
+    
 }
 
 .text-color{
